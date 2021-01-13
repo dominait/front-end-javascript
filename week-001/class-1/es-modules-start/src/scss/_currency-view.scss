@@ -1,0 +1,14 @@
+.currency-view{
+   display:grid;
+   grid-template-columns: repeat(8, 1fr);
+   grid-template-rows: auto;
+    background-color: blue;
+    li{
+        justify-self: center;
+    }
+}
+.base{
+  grid-column:1/-1;
+  background:red;;
+}
+ 

@@ -1,0 +1,16 @@
+.control-strip {
+  box-shadow: 0 0 3px 0 grey;
+  padding: 0.5rem 1rem;
+  ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .icon {
+    width: 3.5rem;
+  }
+  .login{
+    font-size:14px;
+    box-shadow: none;
+    }
+}

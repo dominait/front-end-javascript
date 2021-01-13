@@ -1,0 +1,12 @@
+.control-strip{
+    padding: 0.5rem 1rem;
+    box-shadow: $shadow;
+    ul{
+        list-style: none;
+        display:flex;
+        justify-content: space-between;
+    }
+    background:black;
+    color:white;
+}
+ 

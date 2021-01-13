@@ -1,0 +1,570 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Philippe",
+                "last": "Ennis"
+            },
+            "location": {
+                "street": {
+                    "number": 575,
+                    "name": "Simcoe St"
+                },
+                "city": "Souris",
+                "state": "Nova Scotia",
+                "country": "Canada",
+                "postcode": "P3R 5F4",
+                "coordinates": {
+                    "latitude": "-8.5739",
+                    "longitude": "-63.4574"
+                },
+                "timezone": {
+                    "offset": "+5:00",
+                    "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+                }
+            },
+            "email": "philippe.ennis@example.com",
+            "login": {
+                "uuid": "c4a0dc8f-8524-4066-b3f3-1a18bd6d367a",
+                "username": "yellowelephant167",
+                "password": "chunky",
+                "salt": "FtisdzBT",
+                "md5": "b37da916762e3961af4b454ba12225e9",
+                "sha1": "0252fdf89e1a1a2c9c0b8d19434c75c26e1a3d7b",
+                "sha256": "309e7f97ffc9a2e85b4ad7a31372f31ae9b4aebe4c0a18bc0928fb0d069c0673"
+            },
+            "dob": {
+                "date": "1981-06-12T07:18:50.736Z",
+                "age": 40
+            },
+            "registered": {
+                "date": "2004-05-27T18:18:19.638Z",
+                "age": 17
+            },
+            "phone": "784-813-4656",
+            "cell": "073-407-0131",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/54.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/54.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/54.jpg"
+            },
+            "nat": "CA"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Lily",
+                "last": "Morin"
+            },
+            "location": {
+                "street": {
+                    "number": 9370,
+                    "name": "Duke St"
+                },
+                "city": "Lasalle",
+                "state": "Québec",
+                "country": "Canada",
+                "postcode": "A8K 4J7",
+                "coordinates": {
+                    "latitude": "6.1552",
+                    "longitude": "49.4476"
+                },
+                "timezone": {
+                    "offset": "+5:00",
+                    "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+                }
+            },
+            "email": "lily.morin@example.com",
+            "login": {
+                "uuid": "1c560b12-5195-4a83-a09b-bcae68c5ed1e",
+                "username": "orangegorilla693",
+                "password": "prosper",
+                "salt": "42h5LXv2",
+                "md5": "ba34d58630631c55f3a2bc37ec300ebe",
+                "sha1": "8be17c0ee86a8e8cba3de44007e19a1b9e1294ce",
+                "sha256": "7d33af98589d7d918c4e6e9900de246c786428461fc131203e1833c6ca0942bd"
+            },
+            "dob": {
+                "date": "1950-02-27T14:59:58.363Z",
+                "age": 71
+            },
+            "registered": {
+                "date": "2006-08-22T11:59:06.770Z",
+                "age": 15
+            },
+            "phone": "860-145-1828",
+            "cell": "707-338-7709",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/16.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/16.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/16.jpg"
+            },
+            "nat": "CA"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Blake",
+                "last": "Slawa"
+            },
+            "location": {
+                "street": {
+                    "number": 3309,
+                    "name": "9th St"
+                },
+                "city": "Red Rock",
+                "state": "British Columbia",
+                "country": "Canada",
+                "postcode": "N0G 2J3",
+                "coordinates": {
+                    "latitude": "19.7045",
+                    "longitude": "106.6301"
+                },
+                "timezone": {
+                    "offset": "-4:00",
+                    "description": "Atlantic Time (Canada), Caracas, La Paz"
+                }
+            },
+            "email": "blake.slawa@example.com",
+            "login": {
+                "uuid": "5db86a14-2da1-4278-9d4d-c1b65dcc1f0d",
+                "username": "ticklishduck483",
+                "password": "super",
+                "salt": "RKyKeMEr",
+                "md5": "be588dd7b129e477ae6766c27c998262",
+                "sha1": "d578a057e5b79393a4cae0a6f5526e513ebb0a8c",
+                "sha256": "24584745b77189971e006ad98d8e92f5adf9a2c8232bb09b9f0bba44217254d2"
+            },
+            "dob": {
+                "date": "1973-08-30T06:23:48.839Z",
+                "age": 48
+            },
+            "registered": {
+                "date": "2005-06-11T23:37:30.025Z",
+                "age": 16
+            },
+            "phone": "880-406-3023",
+            "cell": "037-360-3537",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/52.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/52.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
+            },
+            "nat": "CA"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "David",
+                "last": "Li"
+            },
+            "location": {
+                "street": {
+                    "number": 7127,
+                    "name": "Main St"
+                },
+                "city": "Sidney",
+                "state": "Nova Scotia",
+                "country": "Canada",
+                "postcode": "H7Q 7G5",
+                "coordinates": {
+                    "latitude": "-18.8395",
+                    "longitude": "-15.3242"
+                },
+                "timezone": {
+                    "offset": "+3:00",
+                    "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+                }
+            },
+            "email": "david.li@example.com",
+            "login": {
+                "uuid": "5c042d45-1a11-4b96-9197-4dd36828dd06",
+                "username": "crazyleopard660",
+                "password": "odessa",
+                "salt": "m0eAIeNS",
+                "md5": "97ef2928c8026f7bf64801c95cb39f27",
+                "sha1": "53406b8f682a4a10b77490d0276709f64ebe12e8",
+                "sha256": "9f1da5b5707d5be5e6952978c66a052ef52d2a201949cc8e67527513a543a2d4"
+            },
+            "dob": {
+                "date": "1960-08-11T14:52:44.615Z",
+                "age": 61
+            },
+            "registered": {
+                "date": "2006-02-19T15:29:19.659Z",
+                "age": 15
+            },
+            "phone": "975-100-9020",
+            "cell": "172-041-4640",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/72.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/72.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/72.jpg"
+            },
+            "nat": "CA"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Olivier",
+                "last": "Scott"
+            },
+            "location": {
+                "street": {
+                    "number": 5474,
+                    "name": "Concession Road 23"
+                },
+                "city": "Chipman",
+                "state": "Manitoba",
+                "country": "Canada",
+                "postcode": "B8D 9E7",
+                "coordinates": {
+                    "latitude": "-77.3890",
+                    "longitude": "55.6985"
+                },
+                "timezone": {
+                    "offset": "-3:00",
+                    "description": "Brazil, Buenos Aires, Georgetown"
+                }
+            },
+            "email": "olivier.scott@example.com",
+            "login": {
+                "uuid": "503605c6-b158-45c8-8335-544388b9c713",
+                "username": "redwolf587",
+                "password": "black",
+                "salt": "AGBkXzcA",
+                "md5": "4291655d7753df627582165a72ecb683",
+                "sha1": "d2b9af67adafa9920ebfca94e211a2de55e8037e",
+                "sha256": "555b4ec62707126da0313ac86498ee209948fa3e009992038495a6fba5dfe9a7"
+            },
+            "dob": {
+                "date": "1988-01-16T19:56:21.768Z",
+                "age": 33
+            },
+            "registered": {
+                "date": "2017-04-12T00:01:30.336Z",
+                "age": 4
+            },
+            "phone": "572-777-6293",
+            "cell": "890-647-5471",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/6.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/6.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/6.jpg"
+            },
+            "nat": "CA"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Elliot",
+                "last": "Kowalski"
+            },
+            "location": {
+                "street": {
+                    "number": 5700,
+                    "name": "Dalhousie Ave"
+                },
+                "city": "Port Elgin",
+                "state": "Ontario",
+                "country": "Canada",
+                "postcode": "O8H 9Q1",
+                "coordinates": {
+                    "latitude": "88.5039",
+                    "longitude": "-156.7283"
+                },
+                "timezone": {
+                    "offset": "-1:00",
+                    "description": "Azores, Cape Verde Islands"
+                }
+            },
+            "email": "elliot.kowalski@example.com",
+            "login": {
+                "uuid": "681aba48-943b-4fb8-a00f-0402b30726a6",
+                "username": "bluekoala760",
+                "password": "glory",
+                "salt": "W9ef0EME",
+                "md5": "8f74560ff061159abd831ea631b88e1f",
+                "sha1": "38406de1afe0041875bb41217181bf45a25cebcb",
+                "sha256": "28d5c8a200fa688769193bca02a26659bb8d707bb70827814ecb0fc867b6b1ac"
+            },
+            "dob": {
+                "date": "1964-12-23T20:04:06.188Z",
+                "age": 57
+            },
+            "registered": {
+                "date": "2017-04-05T06:37:19.905Z",
+                "age": 4
+            },
+            "phone": "653-532-6187",
+            "cell": "786-776-2174",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/34.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/34.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
+            },
+            "nat": "CA"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Melodie",
+                "last": "Roy"
+            },
+            "location": {
+                "street": {
+                    "number": 2418,
+                    "name": "Oak St"
+                },
+                "city": "Charlottetown",
+                "state": "Nova Scotia",
+                "country": "Canada",
+                "postcode": "T3B 0X8",
+                "coordinates": {
+                    "latitude": "-85.7695",
+                    "longitude": "-76.8858"
+                },
+                "timezone": {
+                    "offset": "-11:00",
+                    "description": "Midway Island, Samoa"
+                }
+            },
+            "email": "melodie.roy@example.com",
+            "login": {
+                "uuid": "c9c3841b-d584-4331-a872-c6062ae8cd19",
+                "username": "goldenkoala798",
+                "password": "super",
+                "salt": "Xo8PBW34",
+                "md5": "6c633975088eed0ddb773a95251828df",
+                "sha1": "cb077d70d6d7bbc4c9bc1be28f5bf7df91d3b8e8",
+                "sha256": "01ca0bc8c662fd048ae233ec7a5949663b5e30fabe24ef9ce8b9b7c3d273d5e4"
+            },
+            "dob": {
+                "date": "1956-08-10T07:28:56.734Z",
+                "age": 65
+            },
+            "registered": {
+                "date": "2003-07-31T22:49:48.133Z",
+                "age": 18
+            },
+            "phone": "335-749-7584",
+            "cell": "137-808-8615",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/88.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/88.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/88.jpg"
+            },
+            "nat": "CA"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Megan",
+                "last": "Tremblay"
+            },
+            "location": {
+                "street": {
+                    "number": 6897,
+                    "name": "York St"
+                },
+                "city": "Selkirk",
+                "state": "New Brunswick",
+                "country": "Canada",
+                "postcode": "P4M 9A6",
+                "coordinates": {
+                    "latitude": "46.2287",
+                    "longitude": "-76.0657"
+                },
+                "timezone": {
+                    "offset": "-3:00",
+                    "description": "Brazil, Buenos Aires, Georgetown"
+                }
+            },
+            "email": "megan.tremblay@example.com",
+            "login": {
+                "uuid": "bcbb4e5d-f1a6-4c87-b21d-2f2b6447695a",
+                "username": "yellowfish846",
+                "password": "rong",
+                "salt": "IS6VSDyJ",
+                "md5": "4dd2087cb496e490063f32cb28c218e0",
+                "sha1": "17a0af74b81f8acdeeaee769b0358e039248ae23",
+                "sha256": "58984a5fd54cddc8c4b8796ee1e4b31c432a028f2fc0324759844c88ad7c8965"
+            },
+            "dob": {
+                "date": "1962-09-26T08:14:17.199Z",
+                "age": 59
+            },
+            "registered": {
+                "date": "2010-11-06T02:27:36.634Z",
+                "age": 11
+            },
+            "phone": "111-389-8792",
+            "cell": "407-240-9501",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/80.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/80.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/80.jpg"
+            },
+            "nat": "CA"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Etienne",
+                "last": "Lavigne"
+            },
+            "location": {
+                "street": {
+                    "number": 4973,
+                    "name": "Pierre Ave"
+                },
+                "city": "Cumberland",
+                "state": "Prince Edward Island",
+                "country": "Canada",
+                "postcode": "M6B 8S0",
+                "coordinates": {
+                    "latitude": "28.9769",
+                    "longitude": "-138.8165"
+                },
+                "timezone": {
+                    "offset": "+5:45",
+                    "description": "Kathmandu"
+                }
+            },
+            "email": "etienne.lavigne@example.com",
+            "login": {
+                "uuid": "cf11f797-637b-46d5-a958-53b2cbcebbba",
+                "username": "orangeladybug962",
+                "password": "samuel",
+                "salt": "KmGVebu2",
+                "md5": "c69ad9486573f634550387122a0df3d6",
+                "sha1": "3c243337db14870c279bb24fc6c2d0b981d84003",
+                "sha256": "1b1bebde4bc4495d49a3ef9737c372108a0ed0e30160d63ab02971355a1b47fc"
+            },
+            "dob": {
+                "date": "1968-12-17T03:19:27.676Z",
+                "age": 53
+            },
+            "registered": {
+                "date": "2003-12-20T23:15:38.595Z",
+                "age": 18
+            },
+            "phone": "704-994-5530",
+            "cell": "909-267-7139",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/20.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/20.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
+            },
+            "nat": "CA"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Victoria",
+                "last": "Scott"
+            },
+            "location": {
+                "street": {
+                    "number": 799,
+                    "name": "Richmond Ave"
+                },
+                "city": "Kingston",
+                "state": "British Columbia",
+                "country": "Canada",
+                "postcode": "K6X 3D7",
+                "coordinates": {
+                    "latitude": "-38.0385",
+                    "longitude": "-124.5321"
+                },
+                "timezone": {
+                    "offset": "0:00",
+                    "description": "Western Europe Time, London, Lisbon, Casablanca"
+                }
+            },
+            "email": "victoria.scott@example.com",
+            "login": {
+                "uuid": "c79c4f92-4adc-4903-a272-c3fa7cded57c",
+                "username": "lazyelephant800",
+                "password": "forget",
+                "salt": "wS3EH0gK",
+                "md5": "8ae1af208a0681851f7250bc88e6e9bc",
+                "sha1": "b0936bf7ee7b9a8e3305fd1d511cf5e575ad0fa5",
+                "sha256": "89fb7a3883a263f2b68e16b5a26c0d3e6f449676c1d600245b27d3c92e60fd59"
+            },
+            "dob": {
+                "date": "1989-01-02T09:55:20.701Z",
+                "age": 32
+            },
+            "registered": {
+                "date": "2008-12-05T15:23:01.198Z",
+                "age": 13
+            },
+            "phone": "896-648-8841",
+            "cell": "616-874-1978",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/12.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/12.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
+            },
+            "nat": "CA"
+        }
+    ],
+    "info": {
+        "seed": "405ea4b89fa7ca49",
+        "results": 10,
+        "page": 1,
+        "version": "1.3"
+    }
+}

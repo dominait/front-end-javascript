@@ -1,0 +1,73 @@
+form{
+    max-width: 380px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    border-radius: 8px;
+    background:white;
+}
+h2{
+ 
+    font-size: 1.5rem;
+    letter-spacing: -1px;
+    font-weight: bold;
+}
+
+ 
+.search-options{
+    display:grid;
+    grid-template-columns: max-content 1fr;
+    grid-column-gap: 0.75rem;
+    grid-row-gap:0.25rem;
+    align-items: center;
+    align-content: center;
+    justify-items: flex-start;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.077);
+    padding-bottom: 1rem;
+  
+}
+ 
+ .breed{
+    border-bottom: 1px solid rgba(128, 128, 128, 0.077);
+    margin: 1rem 0 1.5rem;
+ }
+.breed-label{
+    display:block;
+    padding-left:0.3rem;
+ 
+}
+
+.search-options-btn{
+    width:100%;
+    color:#ffffff;
+    background:#4338ca;
+ 
+} 
+ 
+ 
+ label{
+     font-size:1rem;
+     font-weight: 600;
+     color:#455a64;
+ 
+ 
+ }
+ 
+input[type=text]{
+   width: 100%;
+   border:none;
+   border-radius: 4px;
+   padding: 0.75rem;
+   padding-left: 1rem;
+   font-size:1rem;
+   outline: none;
+   box-shadow: 1px 1px 4px -1px rgba(128, 128, 128, 0.85); 
+}
+
+.return-values{
+    text-align: center;
+    display:none;
+}
+ 
+ 

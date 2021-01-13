@@ -1,0 +1,22 @@
+.modal{
+    position: fixed;
+    top: -9000px;
+    left:0;
+    width:100%;
+    height: 100vmax;
+    background-color:rgba(238, 232, 232, 0.803);
+    padding:3rem 0 0;
+   
+}
+
+.hide-modal{
+    top:-9000px;
+    // opacity:0;
+    // transition: opacity 1.3s ease-out;  
+}
+
+.show-modal{
+    top:0;
+    // opacity: 1;
+    // transition: opacity 1.3s ease-out;
+}

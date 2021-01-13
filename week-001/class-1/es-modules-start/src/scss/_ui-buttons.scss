@@ -1,0 +1,40 @@
+%button-base{
+    background:transparent;
+    border:none;
+    padding: 1rem 1.5rem;
+    box-shadow: 1px 1px 4px -1px rgba(128, 128, 128, 0.75);
+    border-radius: 10px;
+    font-weight: 600;
+    font-size:14px;
+    color:#4f46e5;
+    outline:none;
+    cursor: default;
+  
+}
+%button-base:hover{
+    box-shadow: 0 0 5px 1px #4438ca58;;
+}
+ 
+
+button{
+    @extend %button-base;
+ 
+}
+
+.soft{
+    @extend %button-base;
+    padding: 0.5rem 1rem;
+    background: #eef2ff;
+    color: #4338ca;
+    font-size: 1rem;
+}
+
+.primary-action{
+    background-color:#4338ca ;
+    color: #ffffff;
+}
+.secondary-action{
+    color: #4338ca;
+}
+
+
