@@ -1,6 +1,6 @@
 # Front End Javascript Development
 
-__Class 1 Topics__
+__Class 1 Topics__  
 Setting up a javascript web project.  
 Creating git repo.  
 Using Netlify. 
