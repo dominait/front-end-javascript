@@ -1,0 +1,21 @@
+.page-header{
+    background:rgb(223, 248, 250);
+    box-shadow:0 0 3px 0 rgb(142, 142, 140);
+    padding:4rem 0;
+    color:rgb(60, 65, 79);
+    text-align: center;
+    h1{
+        font-weight: 600;
+        color:rgb(42, 38, 52);
+        font-size: 2rem;
+    }
+    button{
+        border:none;
+        border-radius: 1.5rem;
+        background:#546e7a;
+        color:#ffffff;
+        padding: 1rem;
+        margin: 2rem 0 0;
+        
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "jskit",
+  "version": "1.0.0",
+  "description": "From this class you should be able to setup a javascript web project directory as shown below.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html --out-dir dev",
+    "build": "parcel build src/index.html",
+    "serv": "http-server public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.12.3",
+    "parcel": "^1.12.4"
+  }
+}
