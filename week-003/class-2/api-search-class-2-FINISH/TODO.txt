@@ -1,0 +1,11 @@
+start on the search controller line 40
+results view render has to be have a conditional renderone result or many results
+
+add object to swapi model for the different category searches
+
+obj={
+    people:"people
+    vehichles: vehichles 
+}
+
+use it to format the right query

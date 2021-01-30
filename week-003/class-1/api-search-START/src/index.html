@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Star Wars API</title>
+    <link rel="stylesheet" href="./css/styles.css" />
+  </head>
+  <body>
+ 
+    <header class="app-header">
+      <div class="header-content">
+        <h1 class="title">Star Wars API</h1>
+        <p class="tagline">searching filter and displaying data</p>
+      </div>
+    </header>
+
+    <main>
+      <form id="search" class="search-api">
+          <ul class="categories">
+            <li class="category subheading"><h3>Category Search</h3></li>
+          <li class="category">
+            <label for="people">people</label
+            ><input id="people" type="radio" name="category" value="people" checked />
+          </li>
+          <li class="category">
+            <label for="planets">planets</label
+            ><input id="planets" type="radio" name="category" value="planets" />
+          </li>
+          <li class="category">
+            <label for="films">films</label><input id="films" type="radio" name="category" value="films" />
+          </li>
+          <li class="category">
+            <label for="species">species</label
+            ><input id="species" type="radio" name="category" value="species" />
+          </li>
+          <li class="category">
+            <label for="vehicles">vehicles</label
+            ><input id="vehicles" type="radio" name="category" value="vehicles" />
+          </li>
+          <li class="category">
+            <label for="ships">star ships</label
+            ><input id="ships" type="radio" name="category" value="ships" />
+          </li>
+          <li class="category search-term">
+                <div class="control">  <label for="searchTerm">people</label>
+                    <input id="searchTerm" type="text" placeholder="ex: luke skywalker" required>
+                </div>
+               
+                <button>search</button></div>
+              
+          </li>
+         
+        </ul>
+       
+      </form>
+     
+     <!-- CONTAINER FOR SEARCH RESULTS -->
+      <aside id="results" class="results">
+        
+      </aside>
+                
+ 
+    </main>
+
+    <script src="js/index.js"></script>
+  </body>
+</html>
+
+
+ 
