@@ -1,0 +1,21 @@
+{
+  "name": "module-build",
+  "version": "1.0.0",
+  "description": "Setting Up project and creating continuous integratio and continuous deployment using github and netlify.",
+  "main": "index.js",
+  "scripts": {
+    "test": "concurrently \"mkdir -p src src/js src/css src/scss src/assets\" \"touch src/index.html src/js/index.js src/scss/styles.scss\"",
+    "dev": "parcel src/index.html  ",
+    "build": "parcel build src/index.html "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5"
+  },
+  "devDependencies": {
+    "http-server": "^0.12.3",
+    "parcel": "^1.12.4"
+  }
+}

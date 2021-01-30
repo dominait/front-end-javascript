@@ -1,0 +1,206 @@
+/*!
+ * Bootstrap Reboot v4.5.3 (https://getbootstrap.com/)
+ * Copyright 2011-2020 The Bootstrap Authors
+ * Copyright 2011-2020 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ * Forked from Normalize.css, licensed MIT (https://github.com/necolas/normalize.css/blob/master/LICENSE.md)
+ */
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+/*! minireset.css v0.0.6 | MIT License | github.com/jgthms/minireset.css */
+html,
+body,
+p,
+ol,
+ul,
+li,
+dl,
+dt,
+dd,
+blockquote,
+figure,
+fieldset,
+legend,
+textarea,
+pre,
+iframe,
+hr,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 100%;
+  font-weight: normal;
+}
+
+ul, ol, li {
+  list-style: none;
+}
+
+button,
+input,
+select,
+textarea {
+  margin: 0;
+}
+
+html {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+img {
+  vertical-align: middle;
+}
+
+video, img {
+  height: auto;
+  max-width: 100%;
+}
+
+iframe {
+  border: 0;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+td,
+th {
+  padding: 0;
+}
+
+td:not([align]),
+th:not([align]) {
+  text-align: left;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #fff;
+}
+
+.app-header {
+  width: 100%;
+  padding: 4rem 0 2rem;
+  background-color: #f5fbff;
+  text-align: center;
+  -webkit-box-shadow: 0 0 2px 0 #b1bbc3;
+          box-shadow: 0 0 2px 0 #b1bbc3;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.app-header img {
+  margin: 2rem auto 2rem;
+  max-width: 360px;
+  width: 80%;
+}
+
+.app-header h1 {
+  font-size: calc(1rem + 5vmax);
+  font-weight: 700;
+  color: #4b48a6;
+  line-height: calc(1rem + 5vmax);
+}
+
+.app-header p {
+  font-size: calc( 1rem + 2vmax);
+  color: #a8a5ef;
+}
+
+.app-header button {
+  display: block;
+  border: none;
+  background: #8083e5;
+  max-width: 300px;
+  margin: 0 auto 0;
+  color: #ffffff;
+  border-radius: 30px;
+  width: 60%;
+  padding: 1rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.header-content {
+  max-width: 620px;
+  margin: 2rem auto;
+}
+
+.cat-display {
+  width: 100%;
+  padding: 1rem;
+}
+
+.cat-view {
+  -webkit-box-shadow: 0 0 2px 0 grey;
+          box-shadow: 0 0 2px 0 grey;
+  background: #f4f9fd;
+  padding: 4px;
+  margin: 2rem auto;
+}
+
+.cat-view img {
+  max-height: 160px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+  width: 100%;
+}
+
+@media (min-width: 900px) {
+  .cat-display {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: (1fr)[3];
+        grid-template-columns: repeat(3, 1fr);
+    -ms-grid-rows: min-content;
+        grid-template-rows: -webkit-min-content;
+        grid-template-rows: min-content;
+    -webkit-box-align: stretch;
+        -ms-flex-align: stretch;
+            align-items: stretch;
+    width: 900px;
+    margin: 0 auto;
+    grid-gap: 0.5rem 1rem;
+  }
+  .cat-view {
+    margin: 0;
+    max-width: 300px;
+  }
+}
+/*# sourceMappingURL=styles.css.map */

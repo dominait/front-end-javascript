@@ -1,0 +1,37 @@
+.cat-display{
+    width:100%;
+    padding: 1rem;
+}
+
+.cat-view{
+  
+    box-shadow: 0 0 2px 0 grey;
+    background:rgb(244, 249, 253);
+    padding: 4px;
+    margin: 2rem auto;
+    img{
+        max-height: 160px;
+        object-fit: cover;
+        object-position: center;
+        width:100%;
+    }
+}
+
+@media (min-width:900px){
+   .cat-display{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows:  min-content;
+    align-items: stretch;
+    
+   width: 900px;
+   margin: 0 auto;
+   grid-gap: 0.5rem 1rem;
+        
+   }
+   .cat-view{
+       margin:0;
+       max-width: 300px;
+   }
+}
+ 
